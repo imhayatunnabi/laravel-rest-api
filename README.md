@@ -1,6 +1,6 @@
 # Laravel REST API
 ```
-clone the repository
+git clone git@github.com:imhayatunnabi/laravel-rest-api.git
 ```
 
 ```
